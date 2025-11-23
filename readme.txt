@@ -1,1 +1,2 @@
 "THIS IS INITITAL README FOR ICT MY ASSIGNMENTS"
+"Adding a line for Task 12." 
